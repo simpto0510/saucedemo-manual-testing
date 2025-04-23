@@ -1,5 +1,5 @@
 # saucedemo-manual-testing
-*The saucedemo-manual-testing repository hosts all artifacts needed for a one-hour manual testing project against the SauceDemo demo e-commerce site.
+*The saucedemo-manual-testing ( https://www.saucedemo.com/ ) repository hosts all artifacts needed for a one-hour manual testing project against the SauceDemo demo e-commerce site.
 It includes:
 1.Test Plans detailing scope, objectives, environment, criteria, and deliverables.
 2.Test Cases covering positive, negative, usability, edge-case, and responsive scenarios.*

@@ -13,11 +13,6 @@ It includes:
     - `test_cases.xlsx`
   - `.gitignore`
 
-
-## Clone the Repository
-** git clone https://github.com/<your-username>/saucedemo-manual-testing.git **
-** cd saucedemo-manual-testing **
-
 ## Manual Testing Artifacts
 ### Test Plan
 Open test-plans/test_plan.xlsx to review scope, objectives, environment details, entry/exit criteria, and deliverables 

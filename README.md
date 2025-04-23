@@ -10,6 +10,7 @@ saucedemo-manual-testing/
 │   └── test_plan.xlsx
 ├── test-cases/
 │   └── test_cases.xlsx
+└── .gitignore
 
 # Clone the Repository
 git clone https://github.com/<your-username>/saucedemo-manual-testing.git

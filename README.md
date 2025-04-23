@@ -7,11 +7,10 @@ It includes:
 ## Repository Structure
 - **saucedemo-manual-testing/**
   - `README.md`
-  - **test-plans/**
+  - **docs/**
     - `test_plan.xlsx`
-  - **test-cases/**
     - `test_cases.xlsx`
-  - `.gitignore`
+
 
 ## Manual Testing Artifacts
 ### Test Plan
